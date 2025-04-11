@@ -48,7 +48,7 @@ export const colleagues: Colleague[] = [
       "Above mentioned car ride with you",
       "when i spoke with early 40 callers and jot down data and presented to you their profiling, you started with first of all Om, Great Job - that really motivated me to do every conversation with all passion",
       "when you introduced me as your chief of staff in last all hands meeting, i was dancing inside knowing that i was helpful to you",
-      "i wish your chief demo officer could have got to done atleast a few demo's XD <3"
+      "i wish your chief demo officer could have got to do atleast a few demo's XD <3"
     ],
   },
   {

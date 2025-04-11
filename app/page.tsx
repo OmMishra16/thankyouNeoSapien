@@ -50,7 +50,7 @@ export default function Home() {
                   <div className="prose prose-emerald mx-auto max-w-none">
                     <p>hii team, i'll miss you all</p>
                     <p>
-                      as i wrap up my time here, i am a bit emotionally numb because you guys were genuinely too nice & supportive to me. it always felt so inclusive. working in an early stage startup is even more exciting that it seems. it pushes one everyday to new challenges. it's really thrilling.
+                      as i wrap up my time here, i am a bit emotionally numb because you guys were genuinely too nice & supportive to me. it always felt so inclusive. working in an early stage startup is even more exciting than it seems. it pushes one everyday to new challenges. it's really thrilling.
                     </p>
                     <p>
                       from night grinds with Husain bhaiya to explaining Neo1 to customers, i've enjoyed it all and tried to give my 100%.
