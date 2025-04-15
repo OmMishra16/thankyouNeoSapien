@@ -36,7 +36,7 @@ export const colleagues: Colleague[] = [
     fullNote:
       "you might not remember this, but on the way back from MOSS office, i once disturbed you and asked so many of the questions haha - that's the only time i was really wishing bangalore to have more traffic. \n\n You had shared your experience interviewing folks at Ather & how important really fundamentals are to computer science engineer. you told after a certain point - people just stop staying relevant, learning and getting updated with the trends even with small reads and experiments & continuously doing this over a long periods beats the average. thankyou for answering a curious kid. you don't differentiate between customers & people around you - you care for everyone and always keep utmost transparency. \n\n  thankyou for trusting me for cx tests :- i enjoyed every bit of it. i wish i could get to do some more of it. i understood how important it is to understand customer's mental model for an intutive design. i am super proud to work with you & i really really admire you. thankyou for being an amazing manager. i wish you a great health & long life.",
     quote:
-      "If user's doesn't understand the product or face difficulty using it, it's a design problem not the product's problem.",
+      "If user's doesn't understand the product or face difficulty using it, it's a design problem not the user's problem.",
     learnings: [
       "How important customer's communications are",
       "How's much important raw data is to collect from customers",
